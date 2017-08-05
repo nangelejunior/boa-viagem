@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/nova_viagem"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="@string/nova_viagem"/>
+    <item
+        android:id="@+id/remover"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="@string/remover_gasto"/>
+
+</menu>
